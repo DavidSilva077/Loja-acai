@@ -1,0 +1,94 @@
+{
+  "ingredientes": {
+    "sorvetes": [
+      {
+        "id": 1,
+        "tipo": "Açaí"
+      },
+      {
+        "id": 2,
+        "tipo": "Flocos"
+      },
+      {
+        "id": 3,
+        "tipo": "Oreo"
+      },
+      {
+        "id": 4,
+        "tipo": "Coco"
+      }
+    ],
+    "coberturas": [
+      {
+        "id": 1,
+        "tipo": "Chocolate"
+      },
+      {
+        "id": 2,
+        "tipo": "Morango"
+      },
+      {
+        "id": 3,
+        "tipo": "Leite Condensado"
+      },
+      {
+        "id": 4,
+        "tipo": "Chocolate e Leite"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Leite em pó"
+      },
+      {
+        "id": 2,
+        "tipo": "Amendoim"
+      },
+      {
+        "id": 3,
+        "tipo": "Farinha láctea"
+      },
+      {
+        "id": 4,
+        "tipo": "Granulado de chocolate"
+      },
+      {
+        "id": 4,
+        "tipo": "Granulado de morango"
+      },
+      {
+        "id": 4,
+        "tipo": "Biscoito triturado"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "acais": [
+    {
+      "nome": "David da Silva Paiva",
+      "cobertura": "Chocolate",
+      "sorvete": "Açaí",
+      "opcionais": [
+        "Farinha láctea",
+        "Granulado de chocolate",
+        "Amendoim"
+      ],
+      "status": "Em produção",
+      "id": 1
+    }
+  ]
+}
