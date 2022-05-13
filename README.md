@@ -2,7 +2,7 @@
 
 
 <h4 align="center"> 
-	🚧  Vue Select 🚀 Construção...  🚧
+	🚧  Vue Select 🚀 Construção....  🚧
 </h4>
 
 ### Features
